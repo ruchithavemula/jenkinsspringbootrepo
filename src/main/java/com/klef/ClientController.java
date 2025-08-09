@@ -20,9 +20,6 @@ public String demo() {
 public String test() {
 	return "Deploy Spring Boot using Jenkins";
 }
-@GetMapping("/klu")
-public String test2() {
-	return "Deploy Spring Boot project ";
-}
+
 
 }
