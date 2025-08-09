@@ -20,9 +20,5 @@ public String demo() {
 public String test() {
 	return "Deploy Spring Boot using Jenkins";
 }
-@GetMapping("/test1")
-public String test1() {
-	return "testing again";
-}
 
 }
